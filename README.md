@@ -56,6 +56,36 @@ When contributing to this repository, please first discuss the change you wish t
 The Project is released under the terms of the [GPL-3.0 License]().
 
 ## Contributors
-- to be added
+<div align="center">
+    <a href="https://allcontributors.org">
+        <img width="30%" height="50%" src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
+    </a>
+</div>
+
+</br>
+
+<table>
+  <tr>
+
+<td align="center"><a href=""><img src="" width="210px;" height="230px;" alt=""/><br /><sub><b> </b></sub></a><br /><p align="center">
+    
+   <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+</td>
+
+<td align="center"><a href="https://github.com/Annanya481"><img src="" width="210px;" height="230px;" alt=""/><br /><sub><b> </b></sub></a><br /><p align="center">
+    
+   <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+</td>
+      
+   </tr>
+    </table>
+
+
 
 
