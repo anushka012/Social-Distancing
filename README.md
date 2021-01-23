@@ -1,6 +1,8 @@
 # Social-Distancing-Detector
 Social Distancing is a method which helps in the control of spread of contagious diseases such as COVID-19 . Though government is taking various safety measures, people are not maintaining social distance. So we at SRM Hackerearth has developed a project which could detect people who are not maintaining social distance. This can be used in crowded places such as malls, railway station, bus stops, etc. 
 
+![my_output](https://user-images.githubusercontent.com/60866104/105572798-66b06c80-5d7f-11eb-8a86-ac7854243800.gif)
+
 ## Requirements
 - Numpy
 - OpenCV
