@@ -21,7 +21,7 @@ Social Distancing is a method which helps in the control of spread of contagious
 
 ![BLOG-1]![1](https://user-images.githubusercontent.com/66209295/105576808-64f4a200-5d9b-11eb-8c5d-0fd5d3c3d6a1.jpeg)
 
-![BLOG-3](https://user-images.githubusercontent.com/60866104/105572355-ade92e00-5d7c-11eb-98b1-64a134555619.JPG)
+![BLOG-3]![2](https://user-images.githubusercontent.com/66209295/105576851-aa18d400-5d9b-11eb-8cdc-b02fbceb2d9a.jpeg)
 
 ![BLOG-8](https://user-images.githubusercontent.com/60866104/105572358-afb2f180-5d7c-11eb-8ccc-c1a33e1f6105.JPG)
 
