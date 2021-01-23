@@ -28,10 +28,6 @@ Social Distancing is a method which helps in the control of spread of contagious
 
 
 
-## How to get started?
-- to be added
-
-
 ## Simple Theory
    ### Object Detection:
    - We will be using YOLOv3, trained on COCO dataset for object detection.
